@@ -49,7 +49,7 @@ climate-challenge/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/climate-challenge.git
+git clone https://github.com/hementewodros/climate-challenge-week0.git
 cd climate-challenge
 ```
 
