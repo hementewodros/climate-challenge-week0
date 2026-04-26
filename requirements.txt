@@ -1,2 +1,7 @@
-numpy
-pandas
+notebook
+ipykernel 
+pandas 
+numpy 
+matplotlib 
+seaborn
+scipy

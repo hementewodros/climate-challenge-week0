@@ -11,7 +11,7 @@ This repository contains the setup for Week 0 of the Climate Challenge. The goal
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hementewodrosclimate-challenge-week0.git
+git clone https://github.com/hementewodros/climate-challenge-week0.git
 cd climate-challenge-week0
 ```
 
