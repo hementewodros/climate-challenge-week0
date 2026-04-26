@@ -62,7 +62,12 @@ pip install -r requirements.txt
 ├── src/
 ├── notebooks/
 │   ├── __init__.py
-│   └── README.md
+│   ├── README.md
+│   ├── ethiopia_eda.ipynb
+│   ├── kenya_eda.ipynb
+│   ├── tanzania_eda.ipynb
+│   ├── nigeria_eda.ipynb
+│   └── sudan_eda.ipynb
 ├── tests/
 │   └── __init__.py
 └── scripts/
