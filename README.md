@@ -104,7 +104,16 @@ This project uses **GitHub Actions** for basic CI.
 * Version control workflow (branching + commits) is followed
 * CI pipeline runs successfully on push to `main`
 * Repository structure is organized and ready for further development
+---
+## References & Learning Sources
 
+To better understand climate data analysis and preprocessing, the following resources were used:
+
+- NASA POWER Data Documentation: https://power.larc.nasa.gov/
+- Pandas Time Series Guide: https://pandas.pydata.org/docs/user_guide/timeseries.html
+- Z-score Outlier Detection: https://en.wikipedia.org/wiki/Standard_score
+- Matplotlib Documentation: https://matplotlib.org/stable/
+- Seaborn Heatmap Guide: https://seaborn.pydata.org/generated/seaborn.heatmap.html
 ---
 
 ## 📝 Notes
