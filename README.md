@@ -1,9 +1,20 @@
+![CI](https://github.com/hementewodros/climate-challenge-week0/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.10-blue)
 # Climate Challenge – Week 0
 
 ## 📌 Overview
 
 This repository contains the setup for Week 0 of the Climate Challenge. The goal of this task is to establish a clean development environment, version control workflow, and basic Continuous Integration (CI) pipeline before working with any data.
+---
+## 🐍 Environment
 
+- Python version: 3.10
+---
+## 🔄 Development Workflow
+
+- Feature branches are used for each task (e.g., `setup-task`, `eda-ethiopia`)
+- Changes are merged into `main` via Pull Requests
+- Commit messages follow Conventional Commits (e.g., `feat:`, `chore:`, `ci:`)
 ---
 
 ## 🚀 Getting Started
@@ -101,6 +112,12 @@ This project uses **GitHub Actions** for basic CI.
 .github/workflows/ci.yml
 ```
 
+---
+## 🤝 Contributing
+
+- Create a new branch for each task (e.g., `eda-country`, `compare-countries`)
+- Follow Conventional Commit messages
+- Open a Pull Request before merging to `main`
 ---
 
 ## ✅ Task Completion Criteria
